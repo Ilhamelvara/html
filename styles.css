@@ -5,7 +5,7 @@ body {
 }
 
 .intro{
-    background-color: yellow;
+    background-color: beige;
     width: 100%;
     display: flex;
     align-items: center;
@@ -30,4 +30,8 @@ body {
 
 .content{
     padding: 8px;
+}
+
+.image{
+    margin-left: 225px;
 }
